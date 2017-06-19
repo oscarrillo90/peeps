@@ -3,8 +3,23 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  width: 306px;
+  margin-top: 175px;
+}
+
+.App-logo-quote {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.login {
+  width: 170px;
+  height: 31px;
+  background-color: #f85b04;
+  color: black;
+  border-radius: 36px;
+  border: 2px solid black;
+  margin-top: 25px;
 }
 
 .App-header {
